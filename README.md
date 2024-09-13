@@ -1,4 +1,5 @@
-# We are cooking.
+# Authy - We are cooking.  
+## A simple and secure 2FA service.
 ### Devs:  
 > SystemD -Main Developer  
-> nnps -Security engineer (New)
+> (New) nnps -Security engineer and Secondary Developer
